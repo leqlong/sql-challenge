@@ -56,4 +56,4 @@ Create a .sql file of your queries.
 
 (Optional) Create a Jupyter notebook of the bonus analysis.
 
-Ensure that your repository has regular commits and a thorough README.md file
+Ensure that your repository has regular commits and a thorough README.md file.
