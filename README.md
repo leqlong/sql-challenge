@@ -40,6 +40,7 @@ List each employee in the Sales and Development departments, including their emp
 List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
 Submission
+
 Before submitting your Challenge assignment, make sure that you’ve done the following:
 
 Create an image file of your ERD.
